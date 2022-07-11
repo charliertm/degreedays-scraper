@@ -1,6 +1,7 @@
 # degreedays-scraper
 
 a coupla notebooks to download and process data from [degreedays](https://www.degreedays.net/) into a pandas dataframe.
-you will need chromedriver on your system PATH to run.
+
+to setup: clone the repo and preferably inside a virtual env run `pip install -r requirements.txt`
 
 ![website](https://i.imgur.com/xqgXDdn.png)
